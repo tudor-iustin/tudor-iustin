@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tudor Iustin</h1>
-<h3 align="center">CEO & Founder at Prism Realities | Data Scientist</h3>
-
-- 🔭 I’m currently working on **Coral Data Engine**
+<h3 align="center">iOS Engineer - Apple Developer</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/tudor-iustin/](https://www.linkedin.com/in/tudor-iustin/)
 
-- 📫 How to reach me **ceo@prismrealities.com**
+- 📫 How to reach me **tudor.iustin@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

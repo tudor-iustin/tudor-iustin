@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tudor Iustin</h1>
-<h3 align="center">CEO @ Prism Robotics | ML Engineer | ML&AI | BSc Computer Science</h3>
+<h3 align="center">iOS Engineer @ Apple | CoreML | BSc (Hons) Computer Science</h3>
 
 - 🔭 I’m currently working on **Machine Learning Self-driving System as my Final Year Project on my CS Degree**
 
@@ -11,9 +11,9 @@
 
 - 📝 I regularly write research articles on [https://www.linkedin.com/in/tudor-iustin/](https://www.linkedin.com/in/tudor-iustin/)
 
-- 💬 Ask me about **Python, Tensorflow, Algorithms, Prototyping**
+- 💬 Ask me about **iOS Development, SwiftUI , Python, Tensorflow, Algorithms, Prototyping**
 
-- 📫 How to reach me **ceo@prismrobotics.co.uk**
+- 📫 How to reach me **tudor.iustin@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

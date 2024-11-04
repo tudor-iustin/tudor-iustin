@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tudor Iustin</h1>
-<h3 align="center">CEO @ Prism Robotics | Machine Learning and AI Engineer | BSc Computer Science</h3>
+<h3 align="center">CEO @ DeepLink Research Labs | Machine Learning and AI Engineer | BSc Computer Science</h3>
 
 - 🔭 I’m currently working on **Machine Learning Self-driving System as my Final Year Project for my CS Degree**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Tensorflow, Advanced Algorithms, Python, LLMs, NLP, Advanced Artificial Neural Networks**
 
-- 📫 How to reach me **ceo@prismrobotics.co.uk**
+- 📫 How to reach me **ceo@deeplinkresearchlabs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

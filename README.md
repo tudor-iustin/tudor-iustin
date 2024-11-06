@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tudor Iustin</h1>
+<h1 align="center">Tudor Iustin</h1>
 <h3 align="center">CEO @ DeepLink Research Labs | Machine Learning and AI Engineer | BSc Computer Science</h3>
 
 - 🔭 I’m currently working on **Machine Learning Self-driving System as my Final Year Project for my CS Degree**
